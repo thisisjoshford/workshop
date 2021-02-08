@@ -29,7 +29,7 @@ rustup target add wasm32-unknown-unknown
 
 #### Install `near-cli`
 
-See [`near-cli` installation docs](https://docs.near.org/docs/development/near-cli#installation)
+See [`near-cli` installation docs](https://docs.near.org/docs/tools/near-cli#installation)
 
 #### Install `git`
 
